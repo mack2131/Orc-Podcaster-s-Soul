@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: 3bcc97479f3d19e48bc243e3fc73973e
+timeCreated: 1522908678
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube.001_Cube
+    100002: Cube.003
+    100004: Cube.004_Cube.011
+    100006: Cube.005_Cube.012
+    100008: Cube.006
+    100010: Cube.009_Cube.015
+    100012: Cube.015_Cube.024
+    100014: Cube_Cube.001
+    100016: Cylinder.000_Cylinder.033
+    100018: Cylinder.001_Cylinder.010
+    100020: Cylinder.003
+    100022: Cylinder.004_Cylinder.018
+    100024: Cylinder.007_Cylinder.011
+    100026: Cylinder.011_Cylinder.015
+    100028: Cylinder.019_Cylinder.023
+    100030: Cylinder.024_Cylinder.032
+    100032: //RootNode
+    400000: Cube.001_Cube
+    400002: Cube.003
+    400004: Cube.004_Cube.011
+    400006: Cube.005_Cube.012
+    400008: Cube.006
+    400010: Cube.009_Cube.015
+    400012: Cube.015_Cube.024
+    400014: Cube_Cube.001
+    400016: Cylinder.000_Cylinder.033
+    400018: Cylinder.001_Cylinder.010
+    400020: Cylinder.003
+    400022: Cylinder.004_Cylinder.018
+    400024: Cylinder.007_Cylinder.011
+    400026: Cylinder.011_Cylinder.015
+    400028: Cylinder.019_Cylinder.023
+    400030: Cylinder.024_Cylinder.032
+    400032: //RootNode
+    2100000: korpus1
+    2100002: lotok2
+    2100004: lotok1
+    2100006: petly1
+    2100008: petly2
+    2100010: podstavka3
+    2100012: podstavka2
+    2100014: podstavka1
+    2100016: pol
+    2100018: krusha4
+    2100020: krusha3
+    2100022: krusha2
+    2100024: krusha
+    2100026: korpus4
+    2100028: korpus2
+    2100030: korpus3
+    2300000: Cube.001_Cube
+    2300002: Cube.003
+    2300004: Cube.004_Cube.011
+    2300006: Cube.005_Cube.012
+    2300008: Cube.006
+    2300010: Cube.009_Cube.015
+    2300012: Cube.015_Cube.024
+    2300014: Cube_Cube.001
+    2300016: Cylinder.000_Cylinder.033
+    2300018: Cylinder.001_Cylinder.010
+    2300020: Cylinder.003
+    2300022: Cylinder.004_Cylinder.018
+    2300024: Cylinder.007_Cylinder.011
+    2300026: Cylinder.011_Cylinder.015
+    2300028: Cylinder.019_Cylinder.023
+    2300030: Cylinder.024_Cylinder.032
+    3300000: Cube.001_Cube
+    3300002: Cube.003
+    3300004: Cube.004_Cube.011
+    3300006: Cube.005_Cube.012
+    3300008: Cube.006
+    3300010: Cube.009_Cube.015
+    3300012: Cube.015_Cube.024
+    3300014: Cube_Cube.001
+    3300016: Cylinder.000_Cylinder.033
+    3300018: Cylinder.001_Cylinder.010
+    3300020: Cylinder.003
+    3300022: Cylinder.004_Cylinder.018
+    3300024: Cylinder.007_Cylinder.011
+    3300026: Cylinder.011_Cylinder.015
+    3300028: Cylinder.019_Cylinder.023
+    3300030: Cylinder.024_Cylinder.032
+    4300000: Cylinder.004_Cylinder.018
+    4300002: Cube.015_Cube.024
+    4300004: Cube.009_Cube.015
+    4300006: Cube.005_Cube.012
+    4300008: Cube.004_Cube.011
+    4300010: Cube.006
+    4300012: Cylinder.001_Cylinder.010
+    4300014: Cube.003
+    4300016: Cube.001_Cube
+    4300018: Cylinder.000_Cylinder.033
+    4300020: Cylinder.024_Cylinder.032
+    4300022: Cylinder.019_Cylinder.023
+    4300024: Cube_Cube.001
+    4300026: Cylinder.011_Cylinder.015
+    4300028: Cylinder.007_Cylinder.011
+    4300030: Cylinder.003
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: korpus1
+    second: {fileID: 2100000, guid: d6db9a05da7be7041a90d3e3ff490c39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: korpus2
+    second: {fileID: 2100000, guid: ba23d6806985df4468efb735397bc4e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: korpus3
+    second: {fileID: 2100000, guid: 39135d16f2288ee43bc7503fc14072f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: korpus4
+    second: {fileID: 2100000, guid: aefb4662006cf57499165a4b0d7cb2b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krusha
+    second: {fileID: 2100000, guid: 844ca1c273827de42b77f2cf3ed6c79f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krusha2
+    second: {fileID: 2100000, guid: 03a0f5fe436f41041b025ffb62ca5878, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krusha3
+    second: {fileID: 2100000, guid: b23e71c6a13b30a4fa0de57cc5a69de7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krusha4
+    second: {fileID: 2100000, guid: 6379d61ca801c1b4ebe4b848fa161e68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lotok1
+    second: {fileID: 2100000, guid: 591fabd6f69b70949984865b1aecbc86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lotok2
+    second: {fileID: 2100000, guid: 6a4e07651b14b4c439998cd36e3fe3ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: petly1
+    second: {fileID: 2100000, guid: b663e8bef148fdf41acb99167d890698, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: petly2
+    second: {fileID: 2100000, guid: b80c5e8574288444ebe75e1af72450be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: podstavka1
+    second: {fileID: 2100000, guid: 03f4276cb96b9f94a9a5daa485975ad2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: podstavka2
+    second: {fileID: 2100000, guid: 19fb2ab3b97d6a146be5b1320abd7ca4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: podstavka3
+    second: {fileID: 2100000, guid: 6727acef7a8f71f4caf5f6ff34a83c3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pol
+    second: {fileID: 2100000, guid: f0e7ab06227e56c43aa782fb9c7ce1f3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

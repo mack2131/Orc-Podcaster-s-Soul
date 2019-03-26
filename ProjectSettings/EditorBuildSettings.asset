@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Levels/Intro/Intro.unity
+    guid: 409a44d992efa1940b551308778ce500
+  - enabled: 1
+    path: Assets/Levels/Main Menu/MainMenu.unity
+    guid: e43347a49b0e7c24583ec960317ddffe
+  - enabled: 1
+    path: Assets/Levels/Tutorial/Tutorial.unity
+    guid: d767ae305fa49eb4a9795b49797bf052
+  - enabled: 1
+    path: Assets/Levels/Hub/Hub.unity
+    guid: 74d38ee5bdc7a0c4c81ef09c966e7638
+  - enabled: 1
+    path: Assets/Levels/Dark Wood/Dark Wood.unity
+    guid: 4a58ec0e0fb6f0444ab784dfbc9e31a3
+  - enabled: 1
+    path: Assets/Levels/Kudykina Mountain/Kudykina Mountain.unity
+    guid: 081352bc285a60d4dbf1f3448a94e23a
+  - enabled: 1
+    path: Assets/Levels/The Way to Uganda/The Way to Uganda.unity
+    guid: 4b678e93470a6994c8080ed73c7c30fc
+  - enabled: 1
+    path: Assets/Levels/Coyote Castle/Coyote Castle.unity
+    guid: 200857a67dd4bad4f87ca70e7558d9a8
+  - enabled: 1
+    path: Assets/Levels/Coyote Castle/Castle Arena.unity
+    guid: 522cb313d7e68c848a87bfe244168960
+  - enabled: 1
+    path: Assets/Levels/Credits.unity
+    guid: e544f3a34a80fca40a8906a45fac41b2
+  - enabled: 1
+    path: Assets/Levels/Easter Egg/Easter Egg.unity
+    guid: 09a211a6a5d1ce04082acdbac53c36c7
+  - enabled: 0
+    path: Assets/Prologue.unity
+    guid: 5b560c8741fd59645bb20a241bf12d40
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000

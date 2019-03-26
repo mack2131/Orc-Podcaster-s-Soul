@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 0bad75244fe166a48a1f383df63f3c6b
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: barrels
+    100004: base tower
+    100006: door
+    100008: ferns
+    100010: grass
+    100012: grass floor
+    100014: house base
+    100016: klimop
+    100018: leaves
+    100020: rocks
+    100022: roof
+    100024: stone details
+    100026: tower base
+    100028: tree trunk
+    100030: windows
+    100032: wood beams
+    100034: wood loose planks
+    100036: wood structure
+    400000: //RootNode
+    400002: barrels
+    400004: base tower
+    400006: door
+    400008: ferns
+    400010: grass
+    400012: grass floor
+    400014: house base
+    400016: klimop
+    400018: leaves
+    400020: rocks
+    400022: roof
+    400024: stone details
+    400026: tower base
+    400028: tree trunk
+    400030: windows
+    400032: wood beams
+    400034: wood loose planks
+    400036: wood structure
+    2100000: wall
+    2100002: planks
+    2100004: bark
+    2100006: roof
+    2100008: wooden skel no op
+    2100010: grass
+    2100012: op branches
+    2100014: 'Material #413'
+    2100016: 'Material #650'
+    2100018: door + barrels
+    2300000: barrels
+    2300002: base tower
+    2300004: door
+    2300006: ferns
+    2300008: grass
+    2300010: grass floor
+    2300012: house base
+    2300014: klimop
+    2300016: leaves
+    2300018: rocks
+    2300020: roof
+    2300022: stone details
+    2300024: tower base
+    2300026: tree trunk
+    2300028: windows
+    2300030: wood beams
+    2300032: wood loose planks
+    2300034: wood structure
+    3300000: barrels
+    3300002: base tower
+    3300004: door
+    3300006: ferns
+    3300008: grass
+    3300010: grass floor
+    3300012: house base
+    3300014: klimop
+    3300016: leaves
+    3300018: rocks
+    3300020: roof
+    3300022: stone details
+    3300024: tower base
+    3300026: tree trunk
+    3300028: windows
+    3300030: wood beams
+    3300032: wood loose planks
+    3300034: wood structure
+    4300000: base tower
+    4300002: tower base
+    4300004: tree trunk
+    4300006: house base
+    4300008: roof
+    4300010: stone details
+    4300012: grass floor
+    4300014: wood loose planks
+    4300016: leaves
+    4300018: grass
+    4300020: rocks
+    4300022: ferns
+    4300024: wood structure
+    4300026: door
+    4300028: barrels
+    4300030: windows
+    4300032: wood beams
+    4300034: klimop
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bark
+    second: {fileID: 2100000, guid: 7fcb9d4a0217ead408a8128769e0838f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass
+    second: {fileID: 2100000, guid: f40c770517f2d394785f9cc1d6ef3a83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: planks
+    second: {fileID: 2100000, guid: bc2d20d9ef4328c44be1a106e8a84bc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof
+    second: {fileID: 2100000, guid: fcaaac1e8aa69244795be0c4fe031374, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

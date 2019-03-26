@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 0ea6616c40be3414da6c64a0f2348e20
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Beam_Inner
+    100002: Beams_Lower
+    100004: Beams_Upper
+    100006: Beams_V
+    100008: //RootNode
+    100010: Lower_Floor
+    100012: Roof
+    100014: Upper_Floor
+    100016: Windows_Lower
+    100018: Windows_Lower_Frame
+    100020: Windows_Upper
+    100022: Windows_Upper_Frame
+    400000: Beam_Inner
+    400002: Beams_Lower
+    400004: Beams_Upper
+    400006: Beams_V
+    400008: //RootNode
+    400010: Lower_Floor
+    400012: Roof
+    400014: Upper_Floor
+    400016: Windows_Lower
+    400018: Windows_Lower_Frame
+    400020: Windows_Upper
+    400022: Windows_Upper_Frame
+    2100000: lambert18
+    2100002: lambert2
+    2100004: lambert17
+    2100006: Glass
+    2300000: Beam_Inner
+    2300002: Beams_Lower
+    2300004: Beams_Upper
+    2300006: Beams_V
+    2300008: Lower_Floor
+    2300010: Roof
+    2300012: Upper_Floor
+    2300014: Windows_Lower
+    2300016: Windows_Lower_Frame
+    2300018: Windows_Upper
+    2300020: Windows_Upper_Frame
+    3300000: Beam_Inner
+    3300002: Beams_Lower
+    3300004: Beams_Upper
+    3300006: Beams_V
+    3300008: Lower_Floor
+    3300010: Roof
+    3300012: Upper_Floor
+    3300014: Windows_Lower
+    3300016: Windows_Lower_Frame
+    3300018: Windows_Upper
+    3300020: Windows_Upper_Frame
+    4300000: Roof
+    4300002: Beams_V
+    4300004: Upper_Floor
+    4300006: Beams_Lower
+    4300008: Beams_Upper
+    4300010: Beam_Inner
+    4300012: Lower_Floor
+    4300014: Windows_Upper_Frame
+    4300016: Windows_Lower_Frame
+    4300018: Windows_Lower
+    4300020: Windows_Upper
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 152cb12230d9bbb41a1db42205c7f565, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert17
+    second: {fileID: 2100000, guid: 7d598413844bfe1488b0ac022f768672, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert18
+    second: {fileID: 2100000, guid: 2d0f424e324bafc41a7897c406ea0a04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 193e7e2897a48f04485a5866bccd152a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

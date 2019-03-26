@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: ddaf9d4d50f74bb4897da52332602293
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 2cm AA_7939
+    100002: 2cm AA_7939.Shape
+    100004: Air Dearch Scope_288
+    100006: Air Dearch Scope_288.Shape
+    100008: Deck Gun_4904
+    100010: Deck Gun_4904.Shape
+    100012: //RootNode
+    100014: Type VII Hull_46331
+    100016: Type VII Hull_46331.Shape
+    100018: Wintergarten 1_1988
+    100020: Wintergarten 1_1988.Shape
+    100022: Wintergarten 3_3936
+    100024: Wintergarten 3_3936.Shape
+    400000: 2cm AA_7939
+    400002: 2cm AA_7939.Shape
+    400004: Air Dearch Scope_288
+    400006: Air Dearch Scope_288.Shape
+    400008: Deck Gun_4904
+    400010: Deck Gun_4904.Shape
+    400012: //RootNode
+    400014: Type VII Hull_46331
+    400016: Type VII Hull_46331.Shape
+    400018: Wintergarten 1_1988
+    400020: Wintergarten 1_1988.Shape
+    400022: Wintergarten 3_3936
+    400024: Wintergarten 3_3936.Shape
+    2100000: Black8
+    2100002: sphere6_cut7_auv
+    2100004: Top
+    2100006: default6
+    2100008: Stbd
+    2100010: Port
+    2100012: default2
+    2100014: cylinder3_auv
+    2100016: Gunmetal
+    2100018: default17
+    2100020: Undergrey
+    2100022: Brass2
+    2100024: Black
+    2100026: default
+    2100028: Glass
+    2100030: Wood
+    2100032: Black9
+    2100034: Padding
+    2300000: 2cm AA_7939.Shape
+    2300002: Air Dearch Scope_288.Shape
+    2300004: Deck Gun_4904.Shape
+    2300006: Type VII Hull_46331.Shape
+    2300008: Wintergarten 1_1988.Shape
+    2300010: Wintergarten 3_3936.Shape
+    3300000: 2cm AA_7939.Shape
+    3300002: Air Dearch Scope_288.Shape
+    3300004: Deck Gun_4904.Shape
+    3300006: Type VII Hull_46331.Shape
+    3300008: Wintergarten 1_1988.Shape
+    3300010: Wintergarten 3_3936.Shape
+    4300000: Type VII Hull_46331.Shape
+    4300002: Wintergarten 1_1988.Shape
+    4300004: Wintergarten 3_3936.Shape
+    4300006: Deck Gun_4904.Shape
+    4300008: Air Dearch Scope_288.Shape
+    4300010: 2cm AA_7939.Shape
+    7400000: Animation
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 6a0645750a5943341b29e5f6eb2f341a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black8
+    second: {fileID: 2100000, guid: 6a0645750a5943341b29e5f6eb2f341a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Top
+    second: {fileID: 2100000, guid: 6a0645750a5943341b29e5f6eb2f341a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Undergrey
+    second: {fileID: 2100000, guid: 9586013099aa60f44bc5c3dca4363d3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cylinder3_auv
+    second: {fileID: 2100000, guid: 6a0645750a5943341b29e5f6eb2f341a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sphere6_cut7_auv
+    second: {fileID: 2100000, guid: 6d38d914738554e49b3067ed0534f90b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,77 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using System.IO;
+using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+using UnityEngine.EventSystems;
+using System;
+
+public class CoyoteCastleLevelManager : MonoBehaviour {
+
+    public Transform playerPosition;
+
+    void Awake()
+    {
+        if (SaveLoad.wasLoaded)
+        {
+            playerPosition.transform.position = SaveLoad.savedGame.PLAYERPOSITION;
+            SaveLoad.positionAndSceneLoaded = false;
+        }
+    }
+
+    void OnLevelWasLoaded()
+    {
+        GameObject[] players = GameObject.FindGameObjectsWithTag("Player");
+        if (players.Length > 1)
+        {
+            for (int i = 1; i < players.Length; i++)
+                Destroy(players[i]);
+        }
+        players[0].transform.position = playerPosition.transform.position;
+    }
+
+	// Use this for initialization
+	void Start () 
+    {
+        LoadLevelState();
+        GameObject.FindGameObjectWithTag("Player").transform.position = playerPosition.transform.position;
+
+        if (GameObject.FindGameObjectWithTag("Player").GetComponent<Fighter>().resWell == null)
+            GameObject.FindGameObjectWithTag("Player").GetComponent<Fighter>().resWell = GameObject.Find("Start Revive Well").GetComponent<Well>(); 
+	}
+	
+	// Update is called once per frame
+	void Update () 
+    {
+		
+	}
+
+    void LoadLevelState()
+    {
+        if (SaveLoad.savedGame != null)
+        {
+            GameObject[] wells = GameObject.FindGameObjectsWithTag("Well");
+            for (int i = 0; i < wells.Length; i++)
+            {
+                if (wells[i].GetComponent<Well>().id == SaveLoad.savedGame.WELL)
+                    GameObject.FindGameObjectWithTag("Player").GetComponent<Fighter>().resWell = wells[i].GetComponent<Well>();
+            }
+        }
+
+        int[,] quests = new int[GameObject.Find("Quest Manager").GetComponent<QuestManager>().allQuests.Length / 2, 2];
+        quests = GameObject.Find("Quest Manager").GetComponent<QuestManager>().allQuests;
+        for (int i = 5; i < quests.Length / 2; i++)
+        {
+            switch (i)
+            {
+                case 5://Шестой квест Знакомый в деревне
+                    {
+                        break;
+                        /*=======================================*/
+                    }
+            }//конец switch
+
+        }//конец цикла for
+    }//конец функции LoadState()
+}

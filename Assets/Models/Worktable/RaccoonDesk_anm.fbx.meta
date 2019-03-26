@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: 7992119e90466ab41a397cb68ddbb52e
+timeCreated: 1520332443
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Alpha
+    100002: Arrow
+    100004: Attach2
+    100006: Back
+    100008: Back 1
+    100010: Back2
+    100012: Back2 1
+    100014: Border
+    100016: Borders
+    100018: Button
+    100020: Canon
+    100022: Canon 1
+    100024: Canon2
+    100026: Canon2 1
+    100028: Capsule
+    100030: Cassette_low
+    100032: Chain
+    100034: Cuivre
+    100036: Down
+    100038: Down 1
+    100040: Eye
+    100042: Glass
+    100044: Groot
+    100046: Gun
+    100048: Gun2
+    100050: Hammer
+    100052: Head
+    100054: Hold
+    100056: Hold 1
+    100058: Lamp
+    100060: Line
+    100062: Motor
+    100064: Mug
+    100066: Nova
+    100068: NovaKey
+    100070: Plant
+    100072: Plant1
+    100074: Plant2
+    100076: Plant3
+    100078: Plant4
+    100080: Plant5
+    100082: Plant6
+    100084: //RootNode
+    100086: Radio
+    100088: Radio_Antenna
+    100090: Radio_Buttons
+    100092: Radio_Socle
+    100094: Radio_Touches
+    100096: Radio_Turn
+    100098: Roll1
+    100100: Roll1 1
+    100102: Roll2
+    100104: Roll2 1
+    100106: Roll3
+    100108: Roll3 1
+    100110: Socle
+    100112: Socle 1
+    100114: SocleBarre
+    100116: SocleFoot
+    100118: SocleFoot1
+    100120: SocleFoot2
+    100122: SocleSphere
+    100124: Spanner
+    100126: Spike
+    100128: Spike1
+    100130: Spike2
+    100132: Spike3
+    100134: Spike4
+    100136: Spike5
+    100138: Spike6
+    100140: Table
+    100142: Tree
+    100144: Trigger
+    100146: Trigger 1
+    100148: Turn
+    100150: Up
+    100152: Up 1
+    100154: Wings
+    100156: YundoStick
+    400000: Alpha
+    400002: Arrow
+    400004: Attach2
+    400006: Back
+    400008: Back 1
+    400010: Back2
+    400012: Back2 1
+    400014: Border
+    400016: Borders
+    400018: Button
+    400020: Canon
+    400022: Canon 1
+    400024: Canon2
+    400026: Canon2 1
+    400028: Capsule
+    400030: Cassette_low
+    400032: Chain
+    400034: Cuivre
+    400036: Down
+    400038: Down 1
+    400040: Eye
+    400042: Glass
+    400044: Groot
+    400046: Gun
+    400048: Gun2
+    400050: Hammer
+    400052: Head
+    400054: Hold
+    400056: Hold 1
+    400058: Lamp
+    400060: Line
+    400062: Motor
+    400064: Mug
+    400066: Nova
+    400068: NovaKey
+    400070: Plant
+    400072: Plant1
+    400074: Plant2
+    400076: Plant3
+    400078: Plant4
+    400080: Plant5
+    400082: Plant6
+    400084: //RootNode
+    400086: Radio
+    400088: Radio_Antenna
+    400090: Radio_Buttons
+    400092: Radio_Socle
+    400094: Radio_Touches
+    400096: Radio_Turn
+    400098: Roll1
+    400100: Roll1 1
+    400102: Roll2
+    400104: Roll2 1
+    400106: Roll3
+    400108: Roll3 1
+    400110: Socle
+    400112: Socle 1
+    400114: SocleBarre
+    400116: SocleFoot
+    400118: SocleFoot1
+    400120: SocleFoot2
+    400122: SocleSphere
+    400124: Spanner
+    400126: Spike
+    400128: Spike1
+    400130: Spike2
+    400132: Spike3
+    400134: Spike4
+    400136: Spike5
+    400138: Spike6
+    400140: Table
+    400142: Tree
+    400144: Trigger
+    400146: Trigger 1
+    400148: Turn
+    400150: Up
+    400152: Up 1
+    400154: Wings
+    400156: YundoStick
+    2100000: ShaderRadio
+    2100002: lambert1
+    2100004: Transparency
+    2300000: Alpha
+    2300002: Arrow
+    2300004: Attach2
+    2300006: Back
+    2300008: Back 1
+    2300010: Back2
+    2300012: Back2 1
+    2300014: Border
+    2300016: Borders
+    2300018: Button
+    2300020: Canon
+    2300022: Canon 1
+    2300024: Canon2
+    2300026: Canon2 1
+    2300028: Capsule
+    2300030: Cassette_low
+    2300032: Chain
+    2300034: Cuivre
+    2300036: Down
+    2300038: Down 1
+    2300040: Eye
+    2300042: Glass
+    2300044: Hammer
+    2300046: Head
+    2300048: Hold
+    2300050: Hold 1
+    2300052: Lamp
+    2300054: Line
+    2300056: Motor
+    2300058: Mug
+    2300060: Nova
+    2300062: NovaKey
+    2300064: Plant
+    2300066: Plant1
+    2300068: Plant2
+    2300070: Plant3
+    2300072: Plant4
+    2300074: Plant5
+    2300076: Plant6
+    2300078: Radio
+    2300080: Radio_Antenna
+    2300082: Radio_Buttons
+    2300084: Radio_Socle
+    2300086: Radio_Touches
+    2300088: Radio_Turn
+    2300090: Roll1
+    2300092: Roll1 1
+    2300094: Roll2
+    2300096: Roll2 1
+    2300098: Roll3
+    2300100: Roll3 1
+    2300102: Socle
+    2300104: Socle 1
+    2300106: SocleBarre
+    2300108: SocleFoot
+    2300110: SocleFoot1
+    2300112: SocleFoot2
+    2300114: SocleSphere
+    2300116: Spanner
+    2300118: Spike
+    2300120: Spike1
+    2300122: Spike2
+    2300124: Spike3
+    2300126: Spike4
+    2300128: Spike5
+    2300130: Spike6
+    2300132: Table
+    2300134: Tree
+    2300136: Trigger
+    2300138: Trigger 1
+    2300140: Turn
+    2300142: Up
+    2300144: Up 1
+    2300146: Wings
+    2300148: YundoStick
+    3300000: Alpha
+    3300002: Arrow
+    3300004: Attach2
+    3300006: Back
+    3300008: Back 1
+    3300010: Back2
+    3300012: Back2 1
+    3300014: Border
+    3300016: Borders
+    3300018: Button
+    3300020: Canon
+    3300022: Canon 1
+    3300024: Canon2
+    3300026: Canon2 1
+    3300028: Capsule
+    3300030: Cassette_low
+    3300032: Chain
+    3300034: Cuivre
+    3300036: Down
+    3300038: Down 1
+    3300040: Eye
+    3300042: Glass
+    3300044: Hammer
+    3300046: Head
+    3300048: Hold
+    3300050: Hold 1
+    3300052: Lamp
+    3300054: Line
+    3300056: Motor
+    3300058: Mug
+    3300060: Nova
+    3300062: NovaKey
+    3300064: Plant
+    3300066: Plant1
+    3300068: Plant2
+    3300070: Plant3
+    3300072: Plant4
+    3300074: Plant5
+    3300076: Plant6
+    3300078: Radio
+    3300080: Radio_Antenna
+    3300082: Radio_Buttons
+    3300084: Radio_Socle
+    3300086: Radio_Touches
+    3300088: Radio_Turn
+    3300090: Roll1
+    3300092: Roll1 1
+    3300094: Roll2
+    3300096: Roll2 1
+    3300098: Roll3
+    3300100: Roll3 1
+    3300102: Socle
+    3300104: Socle 1
+    3300106: SocleBarre
+    3300108: SocleFoot
+    3300110: SocleFoot1
+    3300112: SocleFoot2
+    3300114: SocleSphere
+    3300116: Spanner
+    3300118: Spike
+    3300120: Spike1
+    3300122: Spike2
+    3300124: Spike3
+    3300126: Spike4
+    3300128: Spike5
+    3300130: Spike6
+    3300132: Table
+    3300134: Tree
+    3300136: Trigger
+    3300138: Trigger 1
+    3300140: Turn
+    3300142: Up
+    3300144: Up 1
+    3300146: Wings
+    3300148: YundoStick
+    4300000: Table
+    4300002: Spanner
+    4300004: Hammer
+    4300006: Mug
+    4300008: Radio
+    4300010: Radio_Socle
+    4300012: Radio_Antenna
+    4300014: Radio_Buttons
+    4300016: Radio_Turn
+    4300018: Radio_Touches
+    4300020: Cassette_low
+    4300022: Spike
+    4300024: Spike1
+    4300026: Spike2
+    4300028: Spike3
+    4300030: Spike4
+    4300032: Spike5
+    4300034: Spike6
+    4300036: SocleFoot
+    4300038: SocleFoot1
+    4300040: SocleFoot2
+    4300042: Capsule
+    4300044: SocleSphere
+    4300046: SocleBarre
+    4300048: Alpha
+    4300050: YundoStick
+    4300052: Arrow
+    4300054: NovaKey
+    4300056: Attach2
+    4300058: Chain
+    4300060: Nova
+    4300062: Motor
+    4300064: Wings
+    4300066: Borders
+    4300068: Lamp
+    4300070: Socle
+    4300072: Button
+    4300074: Border
+    4300076: Turn
+    4300078: Glass
+    4300080: Cuivre
+    4300082: Line
+    4300084: Up
+    4300086: Down
+    4300088: Hold
+    4300090: Trigger
+    4300092: Canon
+    4300094: Canon2
+    4300096: Back
+    4300098: Back2
+    4300100: Roll1
+    4300102: Roll2
+    4300104: Roll3
+    4300106: Up
+    4300108: Down
+    4300110: Hold
+    4300112: Trigger
+    4300114: Canon
+    4300116: Canon2
+    4300118: Back
+    4300120: Back2
+    4300122: Roll1
+    4300124: Roll2
+    4300126: Roll3
+    4300128: Head
+    4300130: Plant
+    4300132: Plant1
+    4300134: Plant2
+    4300136: Plant3
+    4300138: Plant4
+    4300140: Plant5
+    4300142: Plant6
+    4300144: Eye
+    4300146: Tree
+    4300148: Socle
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShaderRadio
+    second: {fileID: 2100000, guid: 06b5892a571da844bbda2b7a091b1505, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
